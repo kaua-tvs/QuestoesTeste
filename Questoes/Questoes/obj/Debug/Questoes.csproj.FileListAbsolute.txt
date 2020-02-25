@@ -1,0 +1,6 @@
+C:\Users\re038334\source\repos\Questoes\Questoes\bin\Debug\Questoes.exe.config
+C:\Users\re038334\source\repos\Questoes\Questoes\bin\Debug\Questoes.exe
+C:\Users\re038334\source\repos\Questoes\Questoes\bin\Debug\Questoes.pdb
+C:\Users\re038334\source\repos\Questoes\Questoes\obj\Debug\Questoes.csprojAssemblyReference.cache
+C:\Users\re038334\source\repos\Questoes\Questoes\obj\Debug\Questoes.exe
+C:\Users\re038334\source\repos\Questoes\Questoes\obj\Debug\Questoes.pdb
